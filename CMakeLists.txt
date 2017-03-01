@@ -6,5 +6,6 @@ enable_testing()
 
 add_subdirectory(lib)
 #add_subdirectory(threads)
-add_subdirectory(sockets)
+#add_subdirectory(sockets)
+add_subdirectory(procexec)
 #add_subdirectory(libbar)
