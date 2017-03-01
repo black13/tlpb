@@ -5,5 +5,6 @@ project(tlpb)
 enable_testing()
 
 add_subdirectory(lib)
-add_subdirectory(threads)
+#add_subdirectory(threads)
+add_subdirectory(sockets)
 #add_subdirectory(libbar)
